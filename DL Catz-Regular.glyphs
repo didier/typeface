@@ -709,10 +709,30 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2021-09-24 14:32:37 +0000";
+lastChange = "2021-09-24 14:53:46 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
+paths = (
+{
+closed = 1;
+nodes = (
+"165 0 LINE",
+"245 0 LINE",
+"245 640 LINE",
+"165 640 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"72 430 LINE",
+"335 430 LINE",
+"335 500 LINE",
+"72 500 LINE"
+);
+}
+);
 width = 400;
 }
 );
