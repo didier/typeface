@@ -1,6 +1,11 @@
 {
 .appVersion = "116";
+DisplayStrings = (
+OHno
+);
 date = "2021-09-24 12:49:36 +0000";
+designer = "Didier Catz";
+designerURL = "https://didiercatz.com";
 familyName = "New Font";
 featurePrefixes = (
 {
@@ -11,10 +16,24 @@ name = Languagesystems;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{800, 1}",
+"{700, 16}",
+"{500, 16}",
+"{400, 16}",
+"{0, -16}",
+"{-200, -16}"
+);
 ascender = 800;
 capHeight = 700;
 descender = -200;
+horizontalStems = (
+70
+);
 id = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
+verticalStems = (
+85
+);
 weightValue = 0;
 widthValue = 0;
 xHeight = 500;
@@ -93,10 +112,40 @@ unicode = 0047;
 },
 {
 glyphname = H;
+lastChange = "2021-09-24 13:08:36 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"60 0 LINE",
+"145 0 LINE",
+"145 700 LINE",
+"60 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"535 0 LINE",
+"620 0 LINE",
+"620 700 LINE",
+"535 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"60 316 LINE",
+"620 316 LINE",
+"620 400 LINE",
+"60 400 LINE"
+);
+}
+);
+width = 680;
 }
 );
 unicode = 0048;
@@ -163,10 +212,30 @@ unicode = 004E;
 },
 {
 glyphname = O;
+lastChange = "2021-09-24 13:12:45 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"505 -15 OFFCURVE",
+"635 131 OFFCURVE",
+"635 350 CURVE SMOOTH",
+"635 569 OFFCURVE",
+"505 715 OFFCURVE",
+"310 715 CURVE SMOOTH",
+"115 715 OFFCURVE",
+"-15 569 OFFCURVE",
+"-15 350 CURVE SMOOTH",
+"-15 131 OFFCURVE",
+"115 -15 OFFCURVE",
+"310 -15 CURVE SMOOTH"
+);
+}
+);
+width = 620;
 }
 );
 unicode = 004F;
