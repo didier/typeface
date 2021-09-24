@@ -1,7 +1,7 @@
 {
 .appVersion = "116";
 DisplayStrings = (
-OHno
+OHnoooo
 );
 date = "2021-09-24 12:49:36 +0000";
 designer = "Didier Catz";
@@ -112,7 +112,7 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2021-09-24 13:08:36 +0000";
+lastChange = "2021-09-24 13:26:45 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
@@ -120,32 +120,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"60 0 LINE",
-"145 0 LINE",
-"145 700 LINE",
-"60 700 LINE"
+"80 0 LINE",
+"165 0 LINE",
+"165 700 LINE",
+"80 700 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"535 0 LINE",
-"620 0 LINE",
-"620 700 LINE",
-"535 700 LINE"
+"555 0 LINE",
+"640 0 LINE",
+"640 700 LINE",
+"555 700 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"60 316 LINE",
-"620 316 LINE",
-"620 400 LINE",
-"60 400 LINE"
+"80 316 LINE",
+"640 316 LINE",
+"640 400 LINE",
+"80 400 LINE"
 );
 }
 );
-width = 680;
+width = 720;
 }
 );
 unicode = 0048;
@@ -212,7 +212,7 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2021-09-24 13:12:45 +0000";
+lastChange = "2021-09-24 13:17:03 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
@@ -220,18 +220,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"505 -15 OFFCURVE",
-"635 131 OFFCURVE",
+"496 -14 OFFCURVE",
+"635 141 OFFCURVE",
 "635 350 CURVE SMOOTH",
-"635 569 OFFCURVE",
-"505 715 OFFCURVE",
-"310 715 CURVE SMOOTH",
-"115 715 OFFCURVE",
-"-15 569 OFFCURVE",
+"635 559 OFFCURVE",
+"496 714 OFFCURVE",
+"310 714 CURVE SMOOTH",
+"124 714 OFFCURVE",
+"-15 559 OFFCURVE",
 "-15 350 CURVE SMOOTH",
-"-15 131 OFFCURVE",
-"115 -15 OFFCURVE",
-"310 -15 CURVE SMOOTH"
+"-15 141 OFFCURVE",
+"124 -14 OFFCURVE",
+"310 -14 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"173 76 OFFCURVE",
+"70 193 OFFCURVE",
+"70 350 CURVE SMOOTH",
+"70 507 OFFCURVE",
+"173 624 OFFCURVE",
+"310 624 CURVE SMOOTH",
+"447 624 OFFCURVE",
+"550 507 OFFCURVE",
+"550 350 CURVE SMOOTH",
+"550 193 OFFCURVE",
+"447 76 OFFCURVE",
+"310 76 CURVE SMOOTH"
 );
 }
 );
@@ -482,20 +499,98 @@ unicode = 006D;
 },
 {
 glyphname = n;
+lastChange = "2021-09-24 13:36:57 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 0 LINE",
+"120 0 LINE",
+"120 500 LINE",
+"40 500 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"470 226 LINE",
+"470 226 LINE",
+"550 226 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"120 515 OFFCURVE",
+"90 342 OFFCURVE",
+"90 225 CURVE",
+"120 205 LINE",
+"120 341 OFFCURVE",
+"173 445 OFFCURVE",
+"306 445 CURVE",
+"443 445 OFFCURVE",
+"470 321 OFFCURVE",
+"470 226 CURVE",
+"470 0 LINE",
+"550 0 LINE",
+"550 226 LINE",
+"550 438 OFFCURVE",
+"449 514 OFFCURVE",
+"306 515 CURVE"
+);
+}
+);
+width = 590;
 }
 );
 unicode = 006E;
 },
 {
 glyphname = o;
+lastChange = "2021-09-24 13:36:50 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"415 -14 OFFCURVE",
+"516 98 OFFCURVE",
+"516 250 CURVE SMOOTH",
+"516 401 OFFCURVE",
+"415 514 OFFCURVE",
+"280 514 CURVE SMOOTH",
+"145 514 OFFCURVE",
+"44 401 OFFCURVE",
+"44 250 CURVE SMOOTH",
+"44 98 OFFCURVE",
+"145 -14 OFFCURVE",
+"280 -14 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"181 56 OFFCURVE",
+"124 136 OFFCURVE",
+"124 250 CURVE SMOOTH",
+"124 364 OFFCURVE",
+"181 444 OFFCURVE",
+"280 444 CURVE SMOOTH",
+"379 444 OFFCURVE",
+"436 364 OFFCURVE",
+"436 250 CURVE SMOOTH",
+"436 136 OFFCURVE",
+"379 56 OFFCURVE",
+"280 56 CURVE SMOOTH"
+);
+}
+);
+width = 560;
 }
 );
 unicode = 006F;
@@ -749,6 +844,38 @@ width = 600;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = shoulder;
+lastChange = "2021-09-24 13:31:12 +0000";
+layers = (
+{
+layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
+paths = (
+{
+closed = 1;
+nodes = (
+"590 438 OFFCURVE",
+"489 514 OFFCURVE",
+"346 515 CURVE",
+"160 515 OFFCURVE",
+"130 342 OFFCURVE",
+"130 225 CURVE",
+"160 205 LINE",
+"160 341 OFFCURVE",
+"213 445 OFFCURVE",
+"346 445 CURVE",
+"483 445 OFFCURVE",
+"510 321 OFFCURVE",
+"510 226 CURVE",
+"510 226 LINE",
+"590 226 LINE"
+);
+}
+);
+width = 600;
+}
+);
 }
 );
 instances = (
@@ -757,6 +884,18 @@ name = Regular;
 }
 );
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"303FA210-84ED-4AD3-8189-2F5F79D3A074" = {
+HH = "70";
+HV = "85";
+OH = "90";
+OV = "85";
+nV = "80";
+nd = "70";
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }
