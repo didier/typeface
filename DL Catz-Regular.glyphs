@@ -1,7 +1,7 @@
 {
 .appVersion = "116";
 DisplayStrings = (
-"OH/space noooo",
+"hoi/space nu/space ff/space niet",
 "hevy/space hallo,/space hoe/space gaat/space het/space met/space jou"
 );
 date = "2021-09-24 12:49:36 +0000";
@@ -839,7 +839,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2021-09-25 11:41:52 +0000";
+lastChange = "2021-09-25 12:33:54 +0000";
 layers = (
 {
 layerId = "303FA210-84ED-4AD3-8189-2F5F79D3A074";
@@ -864,22 +864,22 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"420 -13 OFFCURVE",
+"419 -15 OFFCURVE",
 "449 158 OFFCURVE",
 "449 275 CURVE",
 "420 295 LINE",
 "420 159 OFFCURVE",
 "387 55 OFFCURVE",
 "264 55 CURVE",
-"157 55 OFFCURVE",
-"130 159 OFFCURVE",
+"137 55 OFFCURVE",
+"130 135 OFFCURVE",
 "130 254 CURVE",
 "130 500 LINE",
 "50 500 LINE",
 "50 254 LINE",
-"50 42 OFFCURVE",
-"141 -12 OFFCURVE",
-"264 -13 CURVE"
+"50 30 OFFCURVE",
+"130 -14 OFFCURVE",
+"245 -15 CURVE"
 );
 }
 );
